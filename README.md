@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm a student
 - 🌱 I’m currently learning data science and cloud architecture
 - 📫 For Job: [Curriculum](https://abdoulsn.github.io)
 <!--
