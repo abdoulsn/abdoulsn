@@ -8,7 +8,7 @@
 
 Security Engineer.
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=stypr&hide=pawn&langs_count=10&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulsn&hide=pawn&langs_count=9&layout=compact)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulsn&hide=pawn&langs_count=10&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulsn&hide=pawn&langs_count=9&layout=compact)
 
 - 🌱 I’m currently learning data science and cloud architecture
 - 📫 How to reach me: ablaye0m {*at*} g*m*a*i*l.c#o#m
