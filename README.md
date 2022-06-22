@@ -18,11 +18,10 @@
    </tr>
 </table>
 
-
 <table>
   <tr class="noborder">
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=abdoulsn&theme=react-dark&hide_border=true" />
+       <img src="https://activity-graph.herokuapp.com/graph?username=abdoulsn&bg_color=000000&color=ffffff&line=3a88fe&point=77bb41&area=true&hide_border=true" />
     </td>
   </tr>
 </table>
