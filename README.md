@@ -1,17 +1,11 @@
 <h2> About Abdoulaye DIALLO </h2>  
 
-- 👨🏽‍💻 I’m continuously learning Deep Learning data engineering and exploring Machine Learning and Computer Vision using Python.
-
+- 👨🏽‍💻 I’m continuously learning machine learning model, data engineering and exploring new things (cloud, docker, cicd, ...)
+- 👋 I’m collaborating with my friends on educatonal project (see [@verride community](https://github.com/override-community))
 - 🔭 I’m currently working on a data engineering domain
-
 - 🌱 I’m currently engaged in voluntering projects
-
-- 👋 I’m looking to collaborate on Outreachy Projects
-
-- 💬 Talk to me about Python, Scala, Open Source & some others
-
+- 💬 Talk to me about programming, Open Source & data
 - 📫 Email me at <a href="mailto:abdoulaye@duck.com">abdoulaye@duck.com</a>
-
 
 <table>
   <tr class="noborder">
@@ -32,3 +26,11 @@
     </td>
   </tr>
 </table>
+
+<h2> Connect with me </h2>
+<p align="left">
+<a href="https://linkedin.com/in/abdoulsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="optimisticritam-80a801220" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17565722/abdoulsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17565722/ritam-debnath" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ablaye0m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ritamdebnath" height="30" width="40" /></a>
+ <a href="https://twitter.com/abdouIai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="THINND_" height="30" width="40" /></a>
+</p>
