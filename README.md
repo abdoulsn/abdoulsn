@@ -1,13 +1,34 @@
-### Hi there 👋
+<h2> About Abdoulaye DIALLO </h2>  
 
-- 🔭 Working in data zone
-- 🌱 Working as a data engineer in the media industry
-- 📫 for recruiting: [Curriculum](https://abdoulsn.github.io)
-<!--
-**abdoulsn/abdoulsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻 I’m continuously learning Deep Learning data engineering and exploring Machine Learning and Computer Vision using Python.
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulsn&hide=pawn&langs_count=6&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulsn&hide=pawn&langs_count=9&layout=compact)
+- 🔭 I’m currently working on a data engineering domain
 
-- 🌱 As Data science , I'm experienced also in data engineering and cloud
-- 📫 How to reach me: ablaye0m {*at*} g*m*a*i*l.c#o#m
--->
+- 🌱 I’m currently engaged in voluntering projects
+
+- 👋 I’m looking to collaborate on Outreachy Projects
+
+- 💬 Talk to me about Python, Scala, Open Source & some others
+
+- 📫 Email me at <a href="mailto:abdoulaye@duck.com">abdoulaye@duck.com</a>
+
+
+<table>
+  <tr class="noborder">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abdoulsn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
+    </td>
+    <td>
+      <img src=https://github-readme-streak-stats.herokuapp.com?user=abdoulsn&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D />
+    </td>                      
+   </tr>
+</table>
+
+
+<table>
+  <tr class="noborder">
+    <td>
+      <img src="https://activity-graph.herokuapp.com/graph?username=abdoulsn&theme=react-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
