@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a data engineering domain
 - 🌱 I’m currently engaged in voluntering projects
 - 💬 Talk to me about programming, Open Source & data
-- 📫 Email me at <a href="mailto:abdoulaye@duck.com">abdoulaye@duck.com</a>
+- 📫 Email me at <a href="mailto:abdoulayediallo@duck.com">[abdoulayediallo]/@/duck.com</a>
 
 <table>
   <tr class="noborder">
@@ -16,14 +16,6 @@
       <img src=https://github-readme-streak-stats.herokuapp.com?user=abdoulsn&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D />
     </td>                      
    </tr>
-</table>
-
-<table>
-  <tr class="noborder">
-    <td>
-       <img src="https://activity-graph.herokuapp.com/graph?username=abdoulsn&bg_color=000000&color=ffffff&line=3a88fe&point=77bb41&area=true&hide_border=true" />
-    </td>
-  </tr>
 </table>
 
 <h2> Connect with me </h2>
